@@ -1,5 +1,7 @@
 # ChordPro Studio
 
+_Version 1.6_
+
 **Songbuch, Setlisten und Akkordwerkzeug für Gitarristen – eine Windows-Desktop-Anwendung (WPF, .NET 10).**
 
 ChordPro Studio verwaltet Lieder im offenen [ChordPro-Format](https://www.chordpro.org), zeigt sie als
@@ -15,14 +17,18 @@ Es ist ein privates, nicht-kommerzielles Projekt für den eigenen Gebrauch.
 - **Setlisten** zusammenstellen, sortieren und je Lied transponieren.
 - **PDF-Export und Druckvorschau** – einzelne Lieder oder ganze Setlisten, mit Inhaltsverzeichnis,
   ein- oder zweispaltig, mit Griffbildern.
-- **Akkorddiagramme** für Gitarre und ein **Akkordlexikon** mit allen spielbaren Griffen eines Akkords
-  (Grundstellung, Umkehrungen, Powerchords, Jazz-/Shell-Voicings).
+- **Akkorddiagramme** für Gitarre und Klavier sowie ein **Akkordfinder** mit allen spielbaren Griffen eines Akkords
+  (Grundstellung, Umkehrungen, Powerchords, Jazz-/Shell-Voicings). Im Songbuch und im PDF wahlweise Gitarre, Klavier oder beides.
 - **Songinfos online:** Tonart, Takt, Tempo (BPM) und Laufzeit zum Lied nachschlagen und nach Bestätigung
   als ChordPro-Tags übernehmen.
+- **Import aus Text:** Akkord-über-Text (z. B. eingefügter Liedtext mit Akkorden) wird in ChordPro umgewandelt.
+- **Teleprompter:** Vollbild mit großer Schrift und Autoscroll für den Auftritt, per Tastatur steuerbar.
 - **Medienfenster** (andockbar, frei verschiebbar, skalierbar): Titel aus der eigenen MediaMonkey-Bibliothek
   anspielen sowie YouTube-Videos und Gitarren-Lessons zum Lied eingebettet ansehen.
 - **Autoscroll** passend zur Laufzeit des Liedes oder synchron zur Wiedergabe.
-- **Darstellung** hell, dunkel oder wie Windows (Fluent-Design).
+- **Darstellung** hell, dunkel oder wie Windows (Fluent-Design); Akzent-, Akkord-, Papier- und Textfarbe, Liedschrift und Schriftgröße sind anpassbar.
+- **Alle Fenster andockbar** (Songbuch, Setlisten, Akkordfinder, Creator, Medien); die Anordnung wird gespeichert.
+- **Android-Version:** Setlisten lassen sich im gemeinsamen JSON-Format mit der Android-Version austauschen.
 
 ## Datenquellen und Dank
 
